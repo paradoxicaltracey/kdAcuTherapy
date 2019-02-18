@@ -1,0 +1,11 @@
+Version pro1.0
+i) Intial version Release
+
+Version pro2.0
+i)   slider images height and loader also another slider option
+ii)  Logo height and tagline
+iii) Page Boxes column 
+iv)  Font awesome updates
+v)   static front page boxes
+vi)  Excerpt length manageable
+vii) Read more text manageable
